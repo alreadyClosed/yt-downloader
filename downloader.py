@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 """
-Video/Audio Downloader — powered by yt-dlp + ffmpeg
 Requires: pip install yt-dlp   +   ffmpeg on PATH
 """
 
